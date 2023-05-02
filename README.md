@@ -38,7 +38,7 @@ The following steps have been conducted in the course of the development activit
 -----------------------------------------------------  
 
 5. Commit the model via FINOS Legend to the GitLab project : https://gitlab.com/igorkleiman/epam
-6. Create Apache Airflow DAG "legend.py" which comprises of the following steps: 
+6. Create Apache Airflow DAG "legend_dag.py" which comprises of the following steps: 
 
     - extract Employee.pure and Organisation.pure files from GiLab repository https://gitlab.com/igorkleiman/epam. Use private_token "legend_new" for authentication. 
     - copy these files to GCP storage bucket gs://legend_bucket in GCP project secure-bonus-282818 
