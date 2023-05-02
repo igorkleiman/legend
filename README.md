@@ -52,15 +52,15 @@ The following steps have been conducted in the course of the development activit
 
 The integration between Legend and Google Cloud Platform (GCP) and BigQuery can provide several benefits for data management and analysis, including:
 
-Seamless data integration
+### Seamless data integration<br/>
 By ingesting data models from Legend into BigQuery, you can seamlessly integrate data modeling and data analysis workflows. This allows you to create and update data models in Legend, while also leveraging the powerful data analysis capabilities of BigQuery.
 
-Scalability and flexibility
+### Scalability and flexibility<br/>
 BigQuery is a cloud-based data warehousing and analytics service that can store and process large amounts of data. This means that you can easily scale your data processing capabilities as your data needs grow. In addition, BigQuery supports a wide range of data formats, including JSON, which can be used to store and analyze data models.
 
-Machine learning integration
+### Machine learning integration<br/>
 By using BigQuery as a vehicle to dynamically extend your data model based on ML heuristics, you can create a flexible and scalable data processing pipeline that can adapt to changing data needs. This allows you to take advantage of the latest machine learning techniques to improve the accuracy and relevance of your data models.
 
-Collaborative modeling
+### Collaborative modeling<br/>
 The integration between Legend and BigQuery allows you to collaborate on data modeling and analysis projects with other users within your organization. This can improve communication and coordination between different teams, leading to more accurate and effective data models.
 
