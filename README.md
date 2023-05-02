@@ -3,6 +3,8 @@
 
 We are going to ingest data model from Legend into BigQuery and would use Bigquery as a vehicle to dynamically extend the model based on ML heuristics. That model will be finally fed back into Legend.  The integration between Legend and GCP and BigQuery can provide a powerful and flexible platform for data modeling and analysis. By leveraging the strengths of both platforms, companies can create accurate and comprehensive data models that can support a wide range of business needs!
 
+Please, refer to the file LegendHackathon.pdf for complementary illustrations.
+
 The following steps have been conducted in the course of the development activities for the FINOS Legend Hackathon:
 
 1. Create a GCP Project secure-bonus-282818 
